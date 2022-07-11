@@ -1,2 +1,0 @@
-Mediante una base de datos obtenida de Kaggle de Transfermkt, web especializada en fútbol, trabajé en este Dashboard que me ha permitido unir dos de mis pasiones, el fútbol y Análisis de Datos. 
-En este tablero donde se muestran los detalles mas importantes de los 500 jugadores mas valiosos del 2021, goles, asistencias, procedencia entre otros datos de interés.
