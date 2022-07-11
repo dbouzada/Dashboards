@@ -1,0 +1,2 @@
+Análisis de Datos sobre el Mundial de fútbol de Rusia 2018
+Este es el Proyecto Final del Curso de Data Analytics finalizado en septiembre de 2021 realizado en Coderhouse. Accedí al Top 10 de la camada con el trabajo adjunto, con nota final en el proyecto de 10.
