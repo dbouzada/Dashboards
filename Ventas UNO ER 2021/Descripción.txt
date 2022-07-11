@@ -1,0 +1,2 @@
+Mi trabajo actual es como Jefe de Ventas de UNO Entre Ríos, un reconocido medio gráfico de la provincia de Entre Ríos. 
+Realicé este tablero en Power BI para poder analizar las ventas por vendedor y por producto durante el año 2021.
