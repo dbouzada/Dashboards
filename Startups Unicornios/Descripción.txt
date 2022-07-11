@@ -1,0 +1,7 @@
+Análisis de Datos de las Startups denominadas "Unicornios" por su valor de mercado.
+¿Cuáles son las empresas con valuación mas elevada?
+¿Dentro de que paises se encuentran?
+¿Cuanto valen todas juntas?
+
+Estas son algunas de las respuestas que otorga este Dashboard realizado en Power BI.
+Fuente: Kaggle.
