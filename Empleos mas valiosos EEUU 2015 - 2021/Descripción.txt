@@ -1,0 +1,3 @@
+Análisis de datos de los empleos mejor valorados en Estados Unidos entre el 2015 y 2021 segun el sitio Glassdoor.
+El modelado se hizo en primera instancia en Excel, luego en Power BI.
+Fuente: Kaggle.
