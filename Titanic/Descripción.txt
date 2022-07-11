@@ -1,0 +1,9 @@
+Historia con datos del hundimiento del Titanic. Muchos vimos la pelicula y nos quedamos con la historia de amor de Di Caprio y Winslett, pero realmente conocemos poco sobre esté trágico suceso. 
+* ¿Cuantos sobrevivieron? 
+* ¿De que edades? 
+* ¿Tenían algún parentesco?
+* ¿A que clase social pertenecían?
+
+Estas son algunas de las preguntas que intenté responder con este Dashboard realizado en Power BI.
+
+Fuente: Kaggle
