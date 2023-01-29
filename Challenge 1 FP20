@@ -1,0 +1,30 @@
+Challenge 1 "Ventas Tiendas San Martins, enero del 2021".
+
+Fechas
+El reto se llevará a cabo desde el 01/09/2023 al 29/01/2023, el reto termina a las 11:59 pm, horario del Reino Unido, el 29/01/2023.
+
+Herramientas
+Los informes solo se pueden realizar en Excel o Power BI.
+
+Acceso al Grupo
+El enlace a nuestro grupo de retos se puede encontrar aquí:
+https://lnkd.in/ef98FTka
+
+REQUERIMIENTOS
+
+*IMPORTANTE*
+Requisitos para el creador de reportes
+El director ejecutivo de las Tiendas San Martins, el Sr. Kevin Pastor-Franco, espera un informe de no más de 2 páginas con un menú de navegación simple.
+1.        La página 1 debe ser una descripción general ejecutiva de las ventas de enero de 2021 con KPI semanales sobre ventas, costos y ganancias, acompañada de otros gráficos relevantes.
+ 
+2.        La página 2 debe estar dedicada a una vista geográfica de las operaciones de las tiendas de San Martins; Se incluye un mapa Json de España en la carpeta de datos. Usted, como desarrollador de informes, debe informar cuales son los 2 Agentes de Ventas con mejores ventas e información sobre qué producto venden más estos Agentes y en donde (Ubicación). El director ejecutivo de San Martins también quisiera saber cuál es el agente con menos ventas.
+
+*Los informes están limitados a 2 páginas y no se imponen otras restricciones. Siéntase libre de usar todas las técnicas a su disposición: información sobre herramientas (Tooltips), desgloses (Drill Through), navegación de páginas (Page Navigation), etc.
+
+Datos
+Hay 2 carpetas de datos, uno en el idioma inglés y otro en el idioma español.  Ambos conjuntos de datos contienen la misma información.
+1. Un archivo de Power BI: modelado.
+2. Una hoja de cálculo de Excel
+3. Un Mapa Json de España incluyendo las Islas Canarias.
+4.  Un documento en formato pdf con la Introducción y los requerimientos.
+
